@@ -1,1 +1,1 @@
-# Praktikum1
+# PraktikumStrukturData
